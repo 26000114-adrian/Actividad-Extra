@@ -1,1 +1,1 @@
-# Actividad-Extra
+# Actividad-Extra Elegí la licencia MIT porque es una de las más sencillas y permisivas. Permite que cualquier persona pueda ver, copiar y usar mi código libremente, siempre y cuando se incluya el aviso de copyright original.
