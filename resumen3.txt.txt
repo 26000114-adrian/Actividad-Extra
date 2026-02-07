@@ -1,0 +1,6 @@
+Unidad 3: Control de Versiones con Git y GitHub
+Resumen: Esta unidad se centró en el uso de Git como herramienta profesional. Aprendí a inicializar repositorios (git init), preparar archivos (git add), crear versiones (git commit) y conectar mi trabajo local con la nube en GitHub (git push).
+
+Temas importantes: El manejo de ramas (branches) para organizar diferentes partes de un proyecto y la importancia de las licencias de software para proteger el código.
+
+Problemas: Mi mayor problema fue accidentalmente intentar convertir mi escritorio de Windows en un repositorio de Git, pero aprendí a usar los comandos de navegación (cd) y limpieza (rmdir) para corregirlo.

@@ -1,0 +1,6 @@
+Unidad 2: Estructuras de Control y JavaScript
+Resumen: Trabajamos con JavaScript para crear programas interactivos mediante el uso de variables (var), captura de datos (prompt) y condicionales (if/else). Desarrollé un calculador de signos zodiacales basado en fechas y un juego de azar contra la computadora.
+
+Temas importantes: El uso de ciclos while y do-while para validar que el usuario ingrese datos correctos (como números del 1 al 9) y el uso de comparadores lógicos (&& y ||).
+
+Problemas: Tuve algunas dificultades con la lógica de los signos zodiacales cuando los rangos de días se cruzaban entre meses, pero lo resolví ajustando las condiciones de los if.

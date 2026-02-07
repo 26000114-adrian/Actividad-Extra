@@ -1,0 +1,6 @@
+Unidad 1: Fundamentos y Lógica Progresiva
+Resumen: En esta unidad aprendí los conceptos básicos de la computación, centrándome en el sistema binario y cómo las computadoras procesan información a nivel lógico. Entendí que toda instrucción compleja nace de decisiones simples de "verdadero" o "falso".
+
+Temas importantes: El flujo de procesos y la estructura inicial de un proyecto de software.
+
+Problemas: Al principio tuve problemas para visualizar cómo pasar de una idea lógica a una carpeta organizada de archivos, pero el uso de la terminal me ayudó a entender la estructura.
